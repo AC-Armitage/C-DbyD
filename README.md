@@ -6,3 +6,5 @@ After learning the basics of C++, I've decided to create projects and upload the
 
 ### Day 1: Networking
 - **Subject:** Networking
+### day 2: Encryption
+- **Subject:** Shift Encryption
