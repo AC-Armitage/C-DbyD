@@ -1,4 +1,8 @@
 # C-DbyD
-after learning the basic of c++ ive decided to make stuff from it and uplead it here till i get good at it 
-Tracker:
-  day_1 subject: Networking
+
+After learning the basics of C++, I've decided to create projects and upload them here as I improve my skills.
+
+## Tracker
+
+### Day 1: Networking
+- **Subject:** Networking
