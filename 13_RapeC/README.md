@@ -18,10 +18,4 @@ To compile the tool yourself, you can use the following command:
 ```bash
 g++ main.cpp -o RapeC
 
-Usage
 
-Once you've compiled the binary or downloaded the precompiled version, you can use it as follows:
-
-bash
-
-./RapeC [options]
